@@ -43,6 +43,9 @@ Each algorithm was evaluated based on standard metrics like accuracy, precision,
 ├── README.md               # Project documentation
 ```
 
+## Usage
+you can use the Jupyter notebooks in the notebooks/ directory to explore and preprocess the data, execute the scripts for each algorithm individually, and check the outputs, evaluation metrics and visualizations.
+
 ## Results
 - **Random Forest** emerged as the most accurate single algorithm, achieving the highest accuracy among the individual methods tested.
 - **Ensemble Method**, which in this case, combining Random Forest, KNN, and SVM with respective weights of 4, 1, and 1, achieved the highest overall accuracy in predicting obesity levels.

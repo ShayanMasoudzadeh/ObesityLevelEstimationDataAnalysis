@@ -14,6 +14,7 @@ The dataset used in this project is from the research paper **"Dataset for Estim
 
 ## Example of Dataset
 Below is an example of the dataset structure:
+![Dataset Example](visuals/DatasetExample.png "Dataset Example")
 
 ## Project Objective
 

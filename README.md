@@ -12,7 +12,7 @@ The dataset used in this project is from the research paper **"Dataset for Estim
 - Demographic data (e.g., age, gender).
 - The target variable: **Obesity Level**.
 
-## Example of Dataset
+### Example of Dataset
 Below is an example of the dataset structure:
 
 ![Dataset Example](visuals/DatasetExample.png "Dataset Example")
